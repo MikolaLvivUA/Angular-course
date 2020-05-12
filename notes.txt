@@ -1,0 +1,2 @@
+ng new project-name - Creating a new project
+ng serve or ng s - Run project
